@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="The Gaze AI Banner" width="100%">
+</p>
+
 # 🧠 The Gaze AI
 
 > **An offline AI-powered Retrieval-Augmented Generation (RAG) chatbot built using FAISS, Sentence Transformers, Ollama, and Streamlit.**
@@ -17,8 +21,17 @@ The Gaze AI is a privacy-focused document assistant that enables users to chat w
 * 🎨 Modern Streamlit interface
 * 🔒 Fully offline — no cloud APIs required
 
----
+<h2>📸 Screenshots</h2>
 
+<p align="center">
+  <img src="assets/home.png" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/chat.png" width="85%">
+</p>
+
+---
 ## 🏗️ Architecture
 
 ```
