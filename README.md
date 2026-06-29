@@ -24,11 +24,11 @@ The Gaze AI is a privacy-focused document assistant that enables users to chat w
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-  <img src="assets/home.png" width="85%">
+  <img src="assets/Interface(1).jpeg" width="85%">
 </p>
 
 <p align="center">
-  <img src="assets/chat.png" width="85%">
+  <img src="assets/Interface(2).jpeg" width="85%">
 </p>
 
 ---
