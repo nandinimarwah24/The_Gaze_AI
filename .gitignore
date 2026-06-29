@@ -1,0 +1,17 @@
+rag_env/
+__pycache__/
+.vscode/
+
+*.pyc
+.DS_Store
+
+data/*.pdf
+data/faiss.index
+data/embeddings.npy
+data/chunks.json
+
+memory/memory.json
+chats/
+
+test.py
+rag 2.py
